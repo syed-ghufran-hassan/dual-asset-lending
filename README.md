@@ -20,7 +20,7 @@ A decentralized lending pool smart contract system built on the Stacks blockchai
 1. Clone the repository:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/syed-ghufran-hassan/dual-asset-lending.git
 cd stacks-lending-pool
 ```
 

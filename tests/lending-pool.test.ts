@@ -1,4 +1,4 @@
- //import fs from "fs";
+
 import path from "path";
 import { Cl, ClarityType, cvToValue } from "@stacks/transactions";
 import { beforeAll, beforeEach, describe, expect, it } from "vitest";
